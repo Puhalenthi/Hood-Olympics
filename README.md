@@ -1,2 +1,2 @@
-# Hood-Olympics
+# Forest of Monsters
 A survival game
